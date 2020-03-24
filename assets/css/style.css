@@ -587,9 +587,13 @@
     	}
     }
 /* 7. CLIENTS SECTION */
+    #clients{
+
+    }
     .clients-section{
         display: flex;
         background-color: transparent;
+        padding-top: 100px;
     }
     .clients-title-section{
         display: flex;
