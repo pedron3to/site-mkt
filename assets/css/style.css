@@ -342,7 +342,7 @@
     .services-container{
         position: relative;
         display: flex;
-        padding-top: 55px;
+        padding-top: 70px;
         padding-bottom: 55px;
         flex-wrap: wrap;
     }
@@ -717,11 +717,13 @@
         line-height: 2;
     }
 	.blog-post-subtitle{
-		font-size: 18px;
+        font-size: 17px;
+        justify-content: center;
         color: #CCCCCC;
 		font-family: Montserrat;
         line-height: 1;
         margin-bottom: 10px;
+       
     }
     .blog-post-text{
         font-size: 14px;
