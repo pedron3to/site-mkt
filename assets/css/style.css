@@ -343,7 +343,7 @@
         position: relative;
         display: flex;
         padding-top: 70px;
-        padding-bottom: 55px;
+        padding-bottom: 0px;
         flex-wrap: wrap;
     }
     .services-header-img-section img{
