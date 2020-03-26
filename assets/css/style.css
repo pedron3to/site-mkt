@@ -110,7 +110,7 @@
         margin-right: 0px!important;
     }
     .nav-item .nav-link{
-        text-align: right;
+        text-align: center;
     }
     .nav-item .nav-link:hover .nav-link-number{
         color: #FF3E81 !important; 
