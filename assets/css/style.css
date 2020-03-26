@@ -142,10 +142,28 @@
         padding: 12px 20px !important;
         border-radius: 100px;
     }
+    
     .learn-more-btn:hover{
         color: #fff;
         background-color: #FF3E81;
     }
+    .learn-more-btn1{
+        background-color: #3A88EC;
+        font-size: 20px;
+        font-family: Poppins;
+        font-weight: 600;
+        color: #fff;
+        padding: 12px 20px !important;
+        border-radius: 100px;
+    }
+    
+    .learn-more-btn1:hover{
+        color: #fff;
+        background-color: #FF3E81;
+    }
+
+
+
 	.btn-invert{
         background-color: #FF3E81!important;
     }
